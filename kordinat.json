@@ -1,0 +1,15 @@
+[
+    { "name": "isShadow", "xStart": 375, "yStart": 295, "xEnd": 381, "yEnd": 297, "color": "0x17000D" },
+    { "name": "isPink", "xStart": 359, "yStart": 206, "xEnd": 377, "yEnd": 207, "color": "0xF1C1AF" },
+    { "name": "isBown", "xStart": 336, "yStart": 276, "xEnd": 337, "yEnd": 278, "color": "0xF5F1EF" },
+    { "name": "isGundul", "xStart": 335, "yStart": 284, "xEnd": 336, "yEnd": 285, "color": "0xE7E5EB" },
+    { "name": "isTolol", "xStart": 332, "yStart": 248, "xEnd": 333, "yEnd": 249, "color": "0x8F8193" },
+    { "name": "isWhite", "xStart": 417, "yStart": 260, "xEnd": 418, "yEnd": 261, "color": "0xBDB7B7" },
+    { "name": "isBotak", "xStart": 335, "yStart": 284, "xEnd": 336, "yEnd": 285, "color": "0xE5E5EB" },
+    { "name": "isBrownBeda", "xStart": 333, "yStart": 276, "xEnd": 339, "yEnd": 277, "color": "0xEFE7E7" },
+    { "name": "isGundulBeda", "xStart": 366, "yStart": 200, "xEnd": 368, "yEnd": 202, "color": "0x3E3537" },
+    { "name": "isOnnaHitam", "xStart": 332, "yStart": 275, "xEnd": 345, "yEnd": 277, "color": "0xDBD3CF" },
+    { "name": "isPriaHitam", "xStart": 333, "yStart": 284, "xEnd": 334, "yEnd": 286, "color": "0xA5A3AB" },
+    { "name": "isPutihHitam", "xStart": 416, "yStart": 263, "xEnd": 418, "yEnd": 264, "color": "0xB7B1AF" },
+    { "name": "isOnnaTombak", "xStart": 368, "yStart": 299, "xEnd": 375, "yEnd": 300, "color": "0xD3B7B7" }
+]
