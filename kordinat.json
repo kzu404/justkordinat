@@ -12,6 +12,7 @@
     { "name": "isPriaHitam", "xStart": 333, "yStart": 284, "xEnd": 334, "yEnd": 286, "color": "0xA5A3AB" },
     { "name": "isPutihHitam", "xStart": 416, "yStart": 263, "xEnd": 418, "yEnd": 264, "color": "0xB7B1AF" },
     { "name": "isOnnaTombak", "xStart": 368, "yStart": 299, "xEnd": 375, "yEnd": 300, "color": "0xD3B7B7" },
-    { "name": "isOnnaTombak", "xStart": 368, "yStart": 299, "xEnd": 375, "yEnd": 300, "color": "0xD3B7B7" },
+    { "name": "isS11new1", "xStart": 383, "yStart": 296, "xEnd": 387, "yEnd": 297, "color": "0x17020F" },
+    { "name": "isBwahPutih", "xStart": 380, "yStart": 294, "xEnd": 385, "yEnd": 295, "color": "0xB7ABB6" },
     
 ]
