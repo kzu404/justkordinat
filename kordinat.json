@@ -482,5 +482,18 @@
     "right2": 396,
     "bottom2": 299,
     "targetColorHex2": "0x190412"
+  },
+  {
+    "name": "rambutnavy4",
+    "left": 381,
+    "top": 213,
+    "right": 396,
+    "bottom": 219,
+    "targetColorHex": "0x333953",
+    "left2": 380,
+    "top2": 293,
+    "right2": 396,
+    "bottom2": 299,
+    "targetColorHex2": "0x18040F"
   }
 ]
