@@ -496,17 +496,30 @@
     "bottom2": 299,
     "targetColorHex2": "0x18040F"
   },
+  {
+  "name": "rambutpink2",
+  "left": 356,
+  "top": 207,
+  "right": 386,
+  "bottom": 215,
+  "targetColorHex": "0xF2C2B1",
+  "left2": 408,
+  "top2": 226,
+  "right2": 418,
+  "bottom2": 237,
+  "targetColorHex2": "0x493A38"
+  },
     {
-    "name": "rambutpink2",
-    "left": 356,
-    "top": 207,
-    "right": 386,
-    "bottom": 215,
-    "targetColorHex": "0xF2C2B1",
-    "left2": 408,
-    "top2": 226,
-    "right2": 418,
-    "bottom2": 237,
-    "targetColorHex2": "0x493A38"
+  "name": "bajuputih",
+  "left": 354,
+  "top": 208,
+  "right": 391,
+  "bottom": 214,
+  "targetColorHex": "0x3E3D42",
+  "left2": 370,
+  "top2": 283,
+  "right2": 393,
+  "bottom2": 289,
+  "targetColorHex2": "0xFBFBFA"
   }
 ]
