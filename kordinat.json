@@ -509,7 +509,7 @@
   "bottom2": 237,
   "targetColorHex2": "0x493A38"
   },
-    {
+  {
   "name": "bajuputih",
   "left": 354,
   "top": 208,
@@ -521,5 +521,19 @@
   "right2": 393,
   "bottom2": 289,
   "targetColorHex2": "0xFBFBFA"
+  },
+  {
+  "name": "rambutpink3",
+  "left": 356,
+  "top": 207,
+  "right": 386,
+  "bottom": 215,
+  "targetColorHex": "0xF2C2B1",
+  "left2": 408,
+  "top2": 226,
+  "right2": 418,
+  "bottom2": 237,
+  "targetColorHex2": "0x493C39"
   }
+  
 ]
